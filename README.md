@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on JAMStack<br>⏳ Exploring Google Cloud & Microsoft Azure<br>🚀 Always ready to collaborate for Dev Experiments<br>👨‍💻 Former Project Lead at HighFidelity Project<br>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>🏆 Certified Professional in Java and Blockchain<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
+💻 I am working on Full stack Tech<br>⏳ Exploring Google Cloud & Microsoft Azure<br>🚀 Always ready to collaborate for Dev Experiments<br>👨‍💻 Former Project Lead at HighFidelity Project<br>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>🏆 Certified Professional in Java and Blockchain<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 
 
 ## 🌐 Socials:
